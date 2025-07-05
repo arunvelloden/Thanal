@@ -12,7 +12,7 @@ export default function Home () {
                             <div className="w-10 h-10 bg-primary-600 rounded-full flex items-center justify-center">
                                 <span className="material-symbols-outlined text-white text-xl">star</span>
                             </div>
-                            <span className="text-xl font-bold text-primary-900">Inspire</span>
+                            <span className="text-xl font-bold text-primary-900">Thanal</span>
                         </div>
                         <nav className="hidden md:flex space-x-8">
                             <a href="#" className="text-gray-600 hover:text-primary-600 transition-colors duration-300">
@@ -91,7 +91,7 @@ export default function Home () {
                                     <div className="w-8 h-8 bg-primary-600 rounded-full flex items-center justify-center">
                                         <span className="material-symbols-outlined text-white text-sm">star</span>
                                     </div>
-                                    <span className="text-lg font-bold">Inspire</span>
+                                    <span className="text-lg font-bold">Thanal</span>
                                 </div>
                                 <p className="text-gray-400 mb-4">
                                     Empowering individuals to achieve their dreams and reach their full potential.
@@ -199,7 +199,7 @@ export default function Home () {
                         </div>
 
                         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-                            <p className="text-gray-400 text-sm">© 2024 Inspire. All rights reserved.</p>
+                            <p className="text-gray-400 text-sm">© 2024 Thanal. All rights reserved.</p>
                             <div className="flex space-x-6 mt-4 md:mt-0">
                                 <a
                                     href="#"
